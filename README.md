@@ -23,12 +23,12 @@ The dataset is from Kaggle.
 - Model file (`.h5`) is excluded due to GitHub size limits  
 - Users can retrain the model or load their own trained model
 # Use Cases
-Assists farmers in early disease detection
-Reduces crop loss through timely intervention
+Assists farmers in early disease detection,
+Reduces crop loss through timely intervention,
 Supports precision agriculture
 # Future Enhancements
-Improve accuracy using transfer learning
-Cloud deployment (AWS / Render / Railway)
+Improve accuracy using transfer learning, 
+Cloud deployment (AWS / Render / Railway),
 Mobile application support
 
 - Author
